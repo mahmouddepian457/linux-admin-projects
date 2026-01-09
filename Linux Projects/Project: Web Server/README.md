@@ -14,3 +14,5 @@ What you will practice:
 Commands Used:
 
 	yum search nginx yum install nginx systemctl enable nginx systemctl start nginx ,systemctl stop nginx, systemctl restart nginx ,jornalctl -u ngin
+	
+
